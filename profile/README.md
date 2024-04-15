@@ -13,18 +13,19 @@ So, we make stuff:
 ## Stuff We Made
 
 ### Stuff We're Messing With Now
-- **Mystery Game**: It's a game. It's mysterious. That's all we got so far.
-- **Ultimate Bot**: It tries to be helpful, swears a lot.
+- **Simple Sudoku**: A Sudoku playground with puzzles you can solve, create, and customize.
+- **Urban Hitman**: Satirical scoring on urban landscapes. It's mischievously fun!
+- **EventBot**: Your Telegram sidekick for slick event management.
 
 ### Stuff We Dream About Making
-- **World’s Okayest App**: It’ll do something cool, we promise.
-- **Super Secret Project**: Even we don’t know what this is yet.
+**nothing at the momment... were working on our dreams already**
+but u can suggest future stuff ^^
 
 ## The Squad
 
-Our team? Oh, just a bunch of cool cats who thought it’d be fun to make digital stuff:
-- **Alex**: Somehow manages to code without breaking everything.
-- **Jamie**: Designs stuff, drinks coffee, regrets life choices.
+### Our Team
+Oh, just a bunch of cool furs who thought it’d be fun to make digital stuff:
+- **Dominik "ChipperFluff"**: Squirrel coding extraordinaire, bouncing through code and the furry world with unmatched zest.
 
 And like, a bunch more folks who wander in and out.
 
